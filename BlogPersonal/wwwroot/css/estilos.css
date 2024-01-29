@@ -1,0 +1,16 @@
+﻿#foto{
+    width: 350px;
+    margin: 2rem 0;
+    border: 7px solid aqua;
+    border-radius: 50%;
+}
+
+#fotoBiografia{
+    width: 100%;
+    margin: 2rem 0;
+
+}
+
+.icono{
+    width: 100px;
+}

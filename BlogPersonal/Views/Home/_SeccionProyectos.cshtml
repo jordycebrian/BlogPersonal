@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Proyectos>
+
+@if(Model is not null)
+{
+    <div style="padding-top: 4rem;" id="seccion3">
+        <h1>My Portfolio</h1>
+        <p>You can watch my projects</p>
+    </div>
+
+
+    <partial name = "_ListaProyectos" model="Model"/>
+}
