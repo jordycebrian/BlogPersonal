@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2wUt5oHhltVTiIGHrAUzndg3Um7qNsmAcNQ1RHAFjAE=",
+  "Hash": "MoKjILW1T00qQFp8W2BmjRCw4mcZovqGed9tay/AzmU=",
   "Source": "BlogPersonal",
   "BasePath": "_content/BlogPersonal",
   "Mode": "Default",
@@ -187,6 +187,23 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\logoYo.jpg"
     },
     {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\Imagenes\\monoContacto.jpg",
+      "SourceId": "BlogPersonal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\",
+      "BasePath": "_content/BlogPersonal",
+      "RelativePath": "Imagenes/monoContacto.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\monoContacto.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\Imagenes\\nyt.png",
       "SourceId": "BlogPersonal",
       "SourceType": "Discovered",
@@ -202,6 +219,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\nyt.png"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\Imagenes\\proyecto1.png",
+      "SourceId": "BlogPersonal",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\",
+      "BasePath": "_content/BlogPersonal",
+      "RelativePath": "Imagenes/proyecto1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\proyecto1.png"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\source\\repos\\BlogPersonal\\BlogPersonal\\wwwroot\\Imagenes\\reddit.png",
